@@ -4,11 +4,11 @@ Bu proje, **Arduino Leonardo** mikrodenetleyicisinin yerleşik USB desteği kull
 
 ## 🚀 Proje Özellikleri
 
-* **HID Protokolü:** ATmega32U4 çipli Arduino Leonardo üzerinden "Sürücüsüz" (Zero-Driver) tak-çalıştır desteği.
+* **HID Protokolü:** **ATmega32U4** çipli **Arduino Leonardo** üzerinden **"Sürücüsüz" (Zero-Driver)** tak-çalıştır desteği.
 * **Gecikme Optimizasyonu:** Kablolu bağlantı ile 8ms - 12ms aralığında düşük girdi gecikmesi.
 * **Yazılım Mimarisi:** Unity üzerinde **Observer Design Pattern** ile bağımsızlaştırılmış UI yönetimi.
 * **Sinyal İşleme:** Analog joystick verileri için yazılımsal **"Deadzone"** filtreleme.
-* **Endüstriyel Tasarım:** Ergonomik kullanım için FDM teknolojisi ile üretilmiş özel 3D baskı kasa.
+* **Endüstriyel Tasarım:** Ergonomik kullanım için FDM teknolojisi ile üretilmiş özel **3D baskı kasa**.
 
 ## 🛠 Teknik Detaylar
 
